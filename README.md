@@ -48,4 +48,15 @@ Just update the lr_model.sav file path and run lr-model.py
 
 ## Step 6
 
-Add the script to the dashboard
+Adding the script to the dashboard
+
+Open the workbook.
+Go to predictions Sheet.
+Describe Model measure.
+Copy the script in teh comment.
+Edit Model measure.
+Replace the current calculation with the copied script.
+Clik OK.
+Set Cell in Prediction dimension's Compute using property.
+
+## Have fun
